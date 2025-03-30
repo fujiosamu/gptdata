@@ -1,0 +1,2 @@
+# gptdata
+gptのdataをおくところ
